@@ -1,7 +1,5 @@
 # Advanced Airflow Docker Setup Script
 
-## 
-
 ## Overview
 This script automates the setup of Apache Airflow in a Docker environment, using PostgreSQL as the backend. It encapsulates best practices from the Airflow, Docker, and Linux communities, ensuring a secure, efficient, and user-friendly installation.
 
