@@ -37,7 +37,7 @@ EOF
 
 # Create docker-compose.yml
 create_docker_compose() {
-    cat <<EOF >docker-compose.yaml
+    cat <<EOF >compose.yaml
 # Docker Compose configuration for Airflow with PostgreSQL
 version: '
 
